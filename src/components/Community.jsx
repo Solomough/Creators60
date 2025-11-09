@@ -15,7 +15,7 @@ const Community = () => {
           Join the Community
         </h2>
         <p className="text-gray-300 text-lg md:text-xl mb-8">
-          Connect with like-minded creators aged 13-24, share insights, collaborate on projects, and grow together.
+          Connect with like-minded creators aged 15-25, share insights, collaborate on projects, and grow together.
         </p>
         <a
           href="https://t.me/thearknetworkpublic"
@@ -23,7 +23,7 @@ const Community = () => {
           rel="noopener noreferrer"
           className="glow-button"
         >
-          Join Discord Community 
+          Join Telegram Community 
         </a>
       </motion.div>
     </section>
