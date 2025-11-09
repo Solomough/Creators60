@@ -4,8 +4,8 @@ import { motion } from 'framer-motion'
 const steps = [
   'Apply via Google Form',
   'Review & Qualification',
-  'Join the Creators60 Community',
-  'Begin 60-day Transformation'
+  'Join the Creators50 Community',
+  'Begin 50-day Transformation'
 ]
 
 const HowItWorks = () => {
@@ -22,7 +22,7 @@ const HowItWorks = () => {
           How It Works
         </h2>
         <p className="text-gray-300 text-lg md:text-xl">
-          A simple 4-step journey to become part of Creators60.
+          A simple 4-step journey to become part of Creators50.
         </p>
       </motion.div>
 
