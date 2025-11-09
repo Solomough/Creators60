@@ -18,12 +18,12 @@ const Community = () => {
           Connect with like-minded creators aged 13-24, share insights, collaborate on projects, and grow together.
         </p>
         <a
-          href="https://discord.com/invite/YOURDISCORDLINK"
+          href="https://t.me/thearknetworkpublic"
           target="_blank"
           rel="noopener noreferrer"
           className="glow-button"
         >
-          Join Discord
+          Join Discord Community 
         </a>
       </motion.div>
     </section>
