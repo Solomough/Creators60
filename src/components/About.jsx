@@ -12,10 +12,10 @@ const About = () => {
         transition={{ duration: 1 }}
       >
         <h2 className="text-4xl md:text-5xl font-poppins font-bold text-white mb-6">
-          About Creators60
+          About Creators50
         </h2>
         <p className="text-gray-300 text-lg md:text-xl">
-          Creators60 is a 60-day initiative designed to empower young minds aged 13-24 in spiritual growth, technology, innovation, and leadership. Over this journey, you will grow in Word, develop high-demand skills, and become part of a community of like-minded creators.
+          Creators50 is a 50-day initiative designed to empower young minds aged 13-24 in spiritual growth, technology, innovation, and leadership. Over this journey, you will grow in Word, develop high-demand skills, and become part of a community of like-minded creators.
         </p>
       </motion.div>
     </section>
