@@ -10,7 +10,7 @@ const Hero = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        Creators<span className="text-accent">60</span>
+        Creators<span className="text-accent">50</span>
       </motion.h1>
 
       <motion.p
@@ -19,7 +19,7 @@ const Hero = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.5, duration: 1 }}
       >
-        The Future is Built by Creators — 60 days of growth in Word, innovation, and technology.
+        The Future is Built by Creators — 50 days of growth in Word, innovation, and technology.
       </motion.p>
 
       <motion.a
