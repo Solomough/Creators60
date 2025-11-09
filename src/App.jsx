@@ -1,7 +1,7 @@
 import React from 'react'
 import Hero from './components/Hero'
 import About from './components/About'
-import FocusAreas from './components/FocusAreas'
+import FocusArea from './components/FocusArea'
 import HowItWorks from './components/HowItWorks'
 import Community from './components/Community'
 import Apply from './components/Apply'
@@ -14,7 +14,7 @@ const App = () => {
       <ParticleBackground />
       <Hero />
       <About />
-      <FocusAreas />
+      <FocusArea />
       <HowItWorks />
       <Community />
       <Apply />
