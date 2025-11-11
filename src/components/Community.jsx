@@ -18,7 +18,7 @@ const Community = () => {
           Connect with like-minded creators aged 15-25, share insights, collaborate on projects, and grow together.
         </p>
         <a
-          href="https://t.me/thearknetworkpublic"
+          href="https://t.me/thearknetwork"
           target="_blank"
           rel="noopener noreferrer"
           className="glow-button"
