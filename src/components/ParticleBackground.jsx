@@ -7,7 +7,7 @@ const ParticleBackground = () => {
     const canvas = canvasRef.current;
     const ctx = canvas.getContext('2d');
     let particlesArray = [];
-    const numberOfParticles = 50;
+    const numberOfParticles = 30;
     let animationFrameId;
 
     const resizeCanvas = () => {
