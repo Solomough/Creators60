@@ -11,6 +11,18 @@ const FocusAreas = () => {
       title: 'Innovation & Tech',
       description: 'Learn, build, and create futuristic solutions using AI and tech skills.',
     },
+    {
+      title: 'Media & Creativity',
+      description: 'Shaping a strong, personal and digital presence.',
+    },
+    {
+      title: 'Leadership & Coordination',
+      description: 'Building capacity to lead with influence',
+    },
+    {
+      title: 'Communication & Partnership',
+      description: 'Strengthening out ability to collaborate and impact  communities',
+    },
   ]
 
   return (
